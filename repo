@@ -3,116 +3,143 @@
     "id": 145,
     "name": "Enchanted Kingdom",
     "imageUrl": "http://i1193.photobucket.com/albums/aa352/RealAsianBeauty/RealAsianBeauty001/CIMG0095_zpsv0koyogj.jpg",
-    "price": 337,
-    "priceCurrency": "DISTANCE",
+    "distance": 337,
+    "distanceCurrency": "DISTANCE",
     "lat": 14.282213,
     "lng": 121.096713
   },
   {
     "id": 148,
-    "name": "Occalong Falls",
-    "imageUrl": "https://lunalaunion.files.wordpress.com/2012/04/occalongfalls-2.jpg",
-    "price": 20,
-    "priceCurrency": "PHP",
-    "lat": 16.799512,
-    "lng": 120.357467
+    "name": "Chocolate Hills",
+    "imageUrl": "https://imagesvc.timeincapp.com/v3/mm/image?url=http%3A%2F%2Fcdn-image.travelandleisure.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F1600x1000%2Fpublic%2F1452094540%2Fchocolate-hills-PHIL0116.jpg%3Fitok%3DoIyRE9kx&w=700&q=85",
+    "distance": 1221,
+    "distanceCurrency": "DISTANCE",
+    "lat": 9.829707,
+    "lng": 124.139682
   },
   {
     "id": 201,
-    "name": "Baluarte Watch Tower",
-    "imageUrl": "https://lh3.googleusercontent.com/proxy/aQISzTASbFJptMnbNuGvbgOuGRabmO8hX0kjmmItaE0KxJCIBJOHlRfb2r0xh7zxk2cmB_qGHLuoAsVVgWbvA-9A88kLn9oukX2nFD-yF_el1Z1UnErv0UqQ0cdfmsez97z9fXI2BosW21EFpVQvoPbL6fePFeg=w408-h271-k-no",
-    "price": 20,
-    "priceCurrency": "PHP",
-    "lat": 16.856817,
-    "lng": 120.372850
+    "name": "Banaue Rice Terraces",
+    "imageUrl": "http://bworldonline.com/wp-content/uploads/2018/04/Banaue-Rice-Terraces.jpg",
+    "distance": 187,
+    "distanceCurrency": "DISTANCE",
+    "lat": 16.923956,
+    "lng": 121.055639
   },
   {
     "id": 205,
-    "name": "Kamay na Bato",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipOvxvN3yuKB-ywrSwVVocLVG-pLfIczvQ2rDYE=w408-h272-k-no",
-    "price": 20,
-    "priceCurrency": "PHP",
-    "lat": 16.847283,
-    "lng":  120.351706
+    "name": "Fort San Pedro",
+    "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2012/07/Fort-San-Pedro.jpg",
+    "distacne": 1149,
+    "distanceCurrency": "DISTANCE",
+    "lat": 10.292470,
+    "lng": 123.905641
   },
   {
     "id": 210,
-    "name": "USAFFIP-NL Military Shrine and Park",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPWmpe1SSEez2hrkQiygxHJXgaflSVZTNmYgUBG=w408-h229-k-no",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.820883,
-    "lng": 120.335579
+    "name": "Casagwa Ruins",
+    "imageUrl": "https://2.bp.blogspot.com/-iUCKa9z-zhA/UdlZjIyklAI/AAAAAAAAAPw/I0g205qz6pc/s1600/Cagsawa+Church+Tower.jpg",
+    "distance": 786,
+    "distanceCurrency": "DISTANCE",
+    "lat": 13.166009,
+    "lng": 123.701124
   },
   {
     "id": 211,
-    "name": "Old Lighthouse",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipO5QQ0skqv6-fQ9a5rA6jf2KP7jaHmhiU80w_K8=w408-h306-k-no",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.614825,
-    "lng": 120.280449
+    "name": "Paoay Church",
+    "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2010/08/paoay-church.jpg",
+    "distance": 0,
+    "distanceCurrency": "DISTANCE",
+    "lat": 18.061553,
+    "lng": 120.521532
   },
   {
     "id": 215,
-    "name": "Watch Tower Darigayos",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipP0O_dkq9iA5vQJ69sO6Awhdj9gszOzHNRorcDT=w408-h270-k-no",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.818499,
-    "lng": 120.330348
+    "name": "Vigan",
+    "imageUrl": "http://1.bp.blogspot.com/-ZAN-ifM0giE/U5sh2t8iTWI/AAAAAAAAGmE/5bunUOqYJvs/s1600/Vigan+Tour-16.jpg",
+    "distance": 114,
+    "distanceCurrency": "DISTANCE",
+    "lat": 17.572017,
+    "lng": 120.389514
   },
   {
     "id": 220,
-    "name": "PUGAD Adventure",
-    "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/0a/55/9c/91/photo9jpg.jpg",
-    "price": 200,
-    "priceCurrency": "PHP",
-    "lat": 16.336679,
-    "lng": 120.478816
+    "name": "Hanging Coffins of Sagada",
+    "imageUrl": "https://c1.staticflickr.com/9/8200/8186107538_d4bd21cb11_b.jpg",
+    "distance": 145,
+    "distanceCurrency": "DISTANCE",
+    "lat": 17.081998,
+    "lng": 120.905881
   },
   {
     "id": 230,
-    "name": "The Farm Agoo",
-    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipPLYJj9r5tFbwoiXExoZ27PsQMkyih1v5Cukjnx=w408-h305-k-no",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.341487,
-    "lng": 120.361361
+    "name": "Coron Palawan",
+    "imageUrl": "http://bytheseatofmyskirt.com/wp-content/uploads/2017/10/Coron-2-1024x683.jpg",
+    "distance": 732,
+    "distanceCurrency": "DISTANCE",
+    "lat": 11.990891,
+    "lng": 120.211516
   },
   {
     "id": 233,
-    "name": "Botanical Garden",
+    "name": "Boracay Island",
     "imageUrl": "http://4.bp.blogspot.com/-A5Yxey-JAQ4/Uhi0_3mrTLI/AAAAAAAABnw/BgWh_wweHug/s1600/xx.JPG",
-    "price": 20,
-    "priceCurrency": "PHP",
-    "lat": 16.587340,
-    "lng": 120.365907
+    "distance": 738,
+    "distanceCurrency": "DISTANCE",
+    "lat": 11.962947,
+    "lng": 121.923619
   },
   {
     "id": 236,
-    "name": "Balay Anito Falls",
-    "imageUrl": "https://lh6.googleusercontent.com/proxy/Vpr3yWIWtNhWE666fuFSKIVAHJHtGNkcQqq11hS7jjHCdSuQzB-KqjSc7uepV3fZCSe3z_HKE1ssa2JFDiv5LeKVVBwYlmxW5xflT-HYm8MB1Xmmp7LGdoWdHK8E_dMRjqGX1WzOcXbPDRHLiC8UbStpu30J0Po=w408-h271-k-no",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.737924,
-    "lng": 120.454573
+    "name": "Sky Ranch Tagaytay",
+    "imageUrl": "https://d1sttufwfa12ee.cloudfront.net/uploads/deal/thumb/74698.jpg",
+    "distance": 368,
+    "distanceCurrency": "DISTANCE",
+    "lat": 14.095786,
+    "lng": 120.937047
   },
   {
     "id": 340,
-    "name": "Pindangan Ruins",
-    "imageUrl": "http://www.launiontayo.com.ph/wp-content/uploads/2017/11/pindangan-ruins.jpg",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.588154,
-    "lng": 120.314596
+    "name": "Aqua Planet Water Park",
+    "imageUrl": "https://www.projectlupad.com/wp-content/uploads/2018/02/Aqua-Planet-Waterpark-Pampanga-Opening-on-February-24-Project-LUPAD.jpeg",
+    "distance": 214,
+    "distanceCurrency": "DISTANCE",
+    "lat": 15.193746,
+    "lng": 120.510922
+  },
+  {
+    "id": 435,
+    "name": "Underground River Palawan",
+    "imageUrl": "https://www.beautifulworld.com/wp-content/uploads/2016/10/Puerto-Princesa.jpg",
+    "distance": 1201,
+    "distanceCurrency": "DISTANCE",
+    "lat": 10.192656,
+    "lng": 118.926658
+  },
+  {
+    "id": 462,
+    "name": "Stobosa Hillside Homes Artworks",
+    "imageUrl": "https://sa.kapamilya.com/absnews/abscbnnews/media/news-special1/lifestyle/6/21/benguet-mural-department-of-tourism-062116.jpg",
+    "distance": 85,
+    "distanceCurrency": "DISTANCE",
+    "lat": 16.434275,
+    "lng": 120.597259
+  },
+  {
+    "id": 495,
+    "name": "Fantasy World",
+    "imageUrl": "https://manilainsider.ph/wp-content/uploads/sites/39/2018/01/fantasy-world-1024x681.jpg",
+    "distance": 387,
+    "distanceCurrency": "DISTANCE",
+    "lat": 14.015648,
+    "lng": 120.873037
   },
   {
     "id": 500,
     "name": "Lovely Criste's Crib",
     "imageUrl": "http://interior4you.net/wp-content/uploads/parser/Classic-house-facade-design-1.jpg",
-    "price": 9999999,
-    "priceCurrency": "PHP",
+    "distance": 0,
+    "distanceCurrency": "DISTANCE",
     "lat": 16.822577,
     "lng": 120.335506
   }
