@@ -30,7 +30,7 @@
     "id": 205,
     "name": "Fort San Pedro",
     "imageUrl": "https://www.thepoortraveler.net/wp-content/uploads/2012/07/Fort-San-Pedro.jpg",
-    "distacne": 1149,
+    "distance": 1149,
     "distanceCurrency": "DISTANCE",
     "lat": 10.292470,
     "lng": 123.905641
