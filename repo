@@ -1,12 +1,12 @@
 [
   {
     "id": 145,
-    "name": "Macho Temple",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/MaChoTemplejf501.JPG/1200px-MaChoTemplejf501.JPG",
-    "price": 0,
-    "priceCurrency": "PHP",
-    "lat": 16.621226,
-    "lng": 120.317574
+    "name": "Enchanted Kingdom",
+    "imageUrl": "http://i1193.photobucket.com/albums/aa352/RealAsianBeauty/RealAsianBeauty001/CIMG0095_zpsv0koyogj.jpg",
+    "price": 337,
+    "priceCurrency": "DISTANCE",
+    "lat": 14.282213,
+    "lng": 121.096713
   },
   {
     "id": 148,
